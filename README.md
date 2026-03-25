@@ -51,3 +51,5 @@
   - import global at main.tsx  `import "./assets/css/global.css"`
   - Use css at your component 
   - Restart your dev server `pnpm dev`
+
+  - the next step in another repo
