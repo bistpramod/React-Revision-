@@ -10,7 +10,7 @@ export default function HomePage() {
   return (
     <section className="bg-gray-50 flex h-screen p-5 gap-5">
       <LeftSidePanel />
-      <RightSidePanel />
+      <RightSidePanel /> // other components too
     </section>
   );
 }
